@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460969578586",
+    "project_id": "universalrecommendationsys",
+    "storage_bucket": "universalrecommendationsys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460969578586:android:1d60abcefde0e232b44863",
+        "android_client_info": {
+          "package_name": "com.example.universal_recommendation_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4kNuv8kJjzWAmApXi3R1mf5jg57X_wno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
